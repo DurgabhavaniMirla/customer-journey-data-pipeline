@@ -1,0 +1,11 @@
+{
+    "project_name": "Customer Journey Data Engineering Pipeline",
+    "data_provenance": {
+        "source_type": "100% Synthetic",
+        "seed_value": 20261022,
+        "generation_script": "generate_journey_data.py",
+        "external_data_used": false,
+        "license": "MIT / Open for Hackathon Evaluation",
+        "attribution": "Generated entirely via programmatic pseudo-randomization."
+    }
+}
